@@ -1,0 +1,5 @@
+		Git y Github
+
+Se ha creado un repositorio con el fin de colocar todas las clases en el mismo en carpetas divididas.
+Clase 02: 
+Creamos carpeta/archivo .txt y pusheamos los cambios al repositorio local.
